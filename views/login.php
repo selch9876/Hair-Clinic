@@ -17,7 +17,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <b>Hair Clinic </b>Admin
+    <b>Hulya Duzgunkaya Clinic </b>Admin
   </div>
   <!-- /.login-logo -->
   <div class="card">
