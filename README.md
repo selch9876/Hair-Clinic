@@ -1,1 +1,1 @@
-Saç kliniği müşteri yönetim ve takip sistemi
+Hair clinic customer management and tracking system
